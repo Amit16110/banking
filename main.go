@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Amit16110/banking/check"
+	"github.com/Amit16110/banking/app"
 )
 
 func main(){
-check.Start()
+app.Start()
 }
